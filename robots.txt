@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /discovery/
+Sitemap: https://zeverix.github.io/discovery/sitemap.xml
